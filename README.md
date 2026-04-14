@@ -13,6 +13,7 @@ This repository showcases my practical work in:
 - Data analysis  
 - Data cleaning  
 - NLP fundamentals  
+- Computer Vision basics  
 - Real-world AI problem understanding  
 
 All assignments are organized topic-wise for better clarity.
@@ -40,6 +41,15 @@ SuprMentr_Internship_Projects/
 ├── Storytelling with Graphs/
 ├── Text Challenges/
 ├── Text Cleaner/
+├── Word Importance Explorer/
+├── Movie Review Analyzer/
+├── Semantic Meaning/
+├── Break the AI/
+├── Prompt Engineer/
+├── NLP Mini App/
+├── Image as Numbers/
+├── Image Filter Lab/
+├── Detection Brainstorm/
 ├── Mini Project Proposal/
 └── Password Authentication/
 ```
@@ -48,10 +58,11 @@ SuprMentr_Internship_Projects/
 
 # Key Highlights
 
-- Implemented real-world AI concepts  
+- Implemented real-world AI and ML concepts  
 - Built machine learning models such as Linear Regression, KNN, and K-Means  
-- Practiced data preprocessing and cleaning  
-- Worked on NLP basics including text cleaning and analysis  
+- Applied NLP techniques like TF-IDF, sentiment analysis, and text cleaning  
+- Explored prompt engineering and AI limitations  
+- Worked on computer vision tasks using OpenCV  
 - Designed logic-based Python programs  
 
 ---
@@ -62,7 +73,8 @@ SuprMentr_Internship_Projects/
 - Machine Learning Basics  
 - Data Analysis  
 - Data Cleaning using Pandas  
-- NLP Basics  
+- Natural Language Processing (NLP)  
+- Computer Vision  
 - Problem Solving  
 - Logical Thinking  
 
@@ -75,6 +87,7 @@ SuprMentr_Internship_Projects/
 - Pandas  
 - Scikit-learn  
 - Matplotlib  
+- OpenCV  
 
 ---
 
@@ -92,12 +105,13 @@ SuprMentr_Internship_Projects/
 - Build end-to-end AI applications  
 - Deploy models using cloud platforms  
 - Create interactive dashboards  
+- Improve project documentation with visuals  
 
 ---
 
 # Conclusion
 
-This repository represents my learning journey during the internship, covering both theoretical concepts and practical implementation of AI techniques.
+This repository represents my learning journey during the internship, covering Python programming, machine learning, NLP, and computer vision concepts through hands-on projects.
 
 ---
 
